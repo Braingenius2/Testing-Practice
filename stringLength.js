@@ -1,3 +1,3 @@
-function stringLength(string) {
+export function stringLength(string) {
   return string.length;
 }
